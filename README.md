@@ -1,10 +1,10 @@
-### Mediator Design Pattern - Task Workflow Console App
+# Mediator Design Pattern - Task Workflow Console App
 
 Welcome to the Mediator Design Pattern example! This project demonstrates the implementation of the Mediator Design Pattern in .NET Core with a simple and practical example.
 
 ---
 
-### **Overview**
+# **Overview**
 
 This console application showcases how the Mediator Design Pattern can be used to coordinate communication between various components (Developer, Tester, and Designer) without them directly depending on each other.
 
@@ -16,7 +16,7 @@ This project was created by Manos Kefalas to help developers learn and effective
 
 ---
 
-### **How It Works**
+# **How It Works**
 
 The project is divided into the following components:
 
@@ -26,7 +26,7 @@ The project is divided into the following components:
 
 ---
 
-### **Code Structure**
+# **Code Structure**
 
 #### **Step 1: Define Messages**
 
