@@ -6,7 +6,7 @@ Welcome to the Mediator Design Pattern example! This project demonstrates the im
 
 # **Overview**
 
-This console application showcases how the Mediator Design Pattern can be used to coordinate communication between various components (Developer, Tester, and Designer) without them directly depending on each other.
+This console application showcases how the **Mediator Design Pattern** can be used to coordinate communication between various components (Developer, Tester, and Designer) without them directly depending on each other.
 
 The purpose of this project is to provide a clear and accessible explanation of the Mediator Design Pattern, making it easy for developers of all levels to understand and apply.
 
