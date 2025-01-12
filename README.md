@@ -9,7 +9,7 @@ The purpose of this project is to provide a clear and accessible explanation of 
 
 I have also explained this pattern in more detail in my LinkedIn article: [Let's Play With: Design Patterns - Mediator Design Pattern](https://www.linkedin.com/pulse/lets-play-design-patterns-manos-kefalas-a4zif/).
 
-This project was created by Manos Kefalas to help developers learn and effectively use the Mediator Design Pattern.
+This project was created by **Manos Kefalas** to help developers learn and effectively use the Mediator Design Pattern.
 
 ## **How It Works**
 The project is divided into the following components:
