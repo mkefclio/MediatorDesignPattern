@@ -48,7 +48,7 @@ The `Program` class demonstrates how to use the Mediator and Handlers to orchest
 
 ### Run the Application
 1. Clone the repository:
-   git clone https://github.com/your-username/MediatorDesignPattern.git
+   git clone https://github.com/mkefclio/MediatorDesignPattern.git
    cd MediatorDesignPattern
 
 2. Build and run the project using the .NET CLI or Visual Studio:
